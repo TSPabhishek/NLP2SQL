@@ -1,7 +1,5 @@
 # NLP2SQL
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 ## NL2SQL Streamlit App — README
 
 This repository provides a Streamlit web app that generates SQL queries from natural language questions using the LLaMA-3-SQLCoder-8B model via Hugging Face Transformers. Users can input a database schema and a question, and the app returns a formatted SQL query.
