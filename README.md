@@ -4,6 +4,8 @@
 
 This repository provides a Streamlit web app that generates SQL queries from natural language questions using the LLaMA-3-SQLCoder-8B model via Hugging Face Transformers. Users can input a database schema and a question, and the app returns a formatted SQL query.
 
+![Image](https://github.com/user-attachments/assets/7ba4c3dc-ba7f-4a4f-9356-baccba9dd819)
+
 ---
 
 ## Features
@@ -121,6 +123,7 @@ The app will use GPU if available; otherwise, it will fall back to CPU (which is
 - **Streamlit Cache:**
 The model is loaded with `@st.cache_resource` for faster reloads.
 
+
 ---
 
 ## License
@@ -134,8 +137,6 @@ This project is for research and educational purposes. Please check the license 
 - [Streamlit](https://streamlit.io/)
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
 - [Defog AI](https://huggingface.co/defog/llama-3-sqlcoder-8b)
-
-![Image](https://github.com/user-attachments/assets/7ba4c3dc-ba7f-4a4f-9356-baccba9dd819)
 
 ---
 
