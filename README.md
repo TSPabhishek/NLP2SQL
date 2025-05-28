@@ -87,8 +87,20 @@ CREATE TABLE products (
 );
 ```
 
-- **Question:**
-_"List the names of all products with price greater than \$100"_
+- **Example Questions:**
+_"List the names of all products with price greater than \$100"
+
+"Show the names of customers who bought more than 5 products in a single sale."
+
+"Find the average supply price for each product."
+
+"What was the total quantity of products sold by region?"
+
+"List all sales that occurred after January 1, 2024."
+
+"Which suppliers supply products with a price lower than $50?"
+
+"Get the total sales quantity per customer, sorted by highest to lowest."_
 - **Generated SQL:**
 
 ```sql
@@ -131,7 +143,6 @@ For questions or issues, please open an issue in this repository.
 
 ---
 
-**Copy and paste this README.md into your GitHub project.**
 
 <div style="text-align: center">⁂</div>
 
