@@ -135,6 +135,8 @@ This project is for research and educational purposes. Please check the license 
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
 - [Defog AI](https://huggingface.co/defog/llama-3-sqlcoder-8b)
 
+![Image](https://github.com/user-attachments/assets/7ba4c3dc-ba7f-4a4f-9356-baccba9dd819)
+
 ---
 
 ## Contact
@@ -162,4 +164,4 @@ For questions or issues, please open an issue in this repository.
 
 [^8]: https://discuss.huggingface.co/t/need-help-performance-issues-transformers-automodelforcausallm-from-pretrained-mosaicml-mpt-7b-instruct/42882
 
-![Image](https://github.com/user-attachments/assets/7ba4c3dc-ba7f-4a4f-9356-baccba9dd819)
+
