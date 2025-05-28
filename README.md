@@ -162,4 +162,4 @@ For questions or issues, please open an issue in this repository.
 
 [^8]: https://discuss.huggingface.co/t/need-help-performance-issues-transformers-automodelforcausallm-from-pretrained-mosaicml-mpt-7b-instruct/42882
 
-https://github.com/user-attachments/assets/7ba4c3dc-ba7f-4a4f-9356-baccba9dd819
+[image](https://github.com/user-attachments/assets/7ba4c3dc-ba7f-4a4f-9356-baccba9dd819)
